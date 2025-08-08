@@ -19,7 +19,7 @@ function Header() {
       <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
         <ul className="navbar-nav ms-auto">
           <li className="nav-item"><a className="nav-link" href="#home">Home</a></li>
-          <li className="nav-item"><a className="nav-link" href="#sobreMim">Sobre Mim</a></li>
+          <li className="nav-item"><a className="nav-link" href="#sobre">Sobre Mim</a></li>
           <li className="nav-item"><a className="nav-link" href="#cursos">Meus Cursos</a></li>
           <li className="nav-item"><a className="nav-link" href="#projeto">Projetos</a></li>
           <li className="nav-item"><a className="nav-link" href="#contato">Contato</a></li>

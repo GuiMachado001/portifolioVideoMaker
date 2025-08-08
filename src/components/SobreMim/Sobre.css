@@ -1,0 +1,44 @@
+#sobre{
+    width: 100%;
+    height: auto;
+    padding: 30px;
+}
+
+.containerTextSobre{
+    width: 100%;
+    height: auto;
+    padding: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.spnSobre{
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+}
+
+@media (max-width: 480px) {
+    #sobre{
+        padding: 20px;
+    }
+    .containerTextSobre{
+        width: 100%;
+        padding: 20px;
+    }
+    .spnSobre{
+        font-size: 15px;
+    }
+}
+
+
+@media (max-width: 768px) {
+
+
+}
+
