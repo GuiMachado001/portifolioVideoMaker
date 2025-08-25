@@ -3,6 +3,9 @@ import './Sobre.css'
 function Sobre(){
     return(
         <section id="sobre">
+            <div className="containerTitle">
+                <h2 className='titleTrabalho'>Sobre Mim</h2>
+            </div>
             <div className="containerTextSobre">
                 <span className='spnSobre'>Sou editor de vídeo e apaixonado por transformar imagens brutas em narrativas envolventes.
 Meu trabalho vai além de cortes e transições — busco ritmo, emoção e impacto visual para que cada projeto conte uma história única.

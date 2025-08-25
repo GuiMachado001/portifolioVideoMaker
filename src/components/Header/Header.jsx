@@ -20,8 +20,8 @@ function Header() {
         <ul className="navbar-nav ms-auto">
           <li className="nav-item"><a className="nav-link" href="#home">Home</a></li>
           <li className="nav-item"><a className="nav-link" href="#sobre">Sobre Mim</a></li>
-          <li className="nav-item"><a className="nav-link" href="#cursos">Meus Cursos</a></li>
-          <li className="nav-item"><a className="nav-link" href="#projeto">Projetos</a></li>
+          <li className="nav-item"><a className="nav-link" href="#videos">Meus Trabalhos</a></li>
+          {/* <li className="nav-item"><a className="nav-link" href="#projeto">Projetos</a></li> */}
           <li className="nav-item"><a className="nav-link" href="#contato">Contato</a></li>
         </ul>
       </div>
