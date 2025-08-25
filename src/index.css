@@ -12,11 +12,11 @@
 }
 
 body {
-    min-height: 400vh;
+    /* min-height: 400vh; */
     /* background: radial-gradient(ellipse at bottom, #0d1d31 0%, #0c0d13 100%); */
     overflow-x: hidden;
     background-color: #101820;
-  margin-top: 60px;
+    margin-top: 60px;
   }
 
 

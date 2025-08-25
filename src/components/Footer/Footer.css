@@ -1,0 +1,53 @@
+.footer {
+  background-color: #111;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  font-size: 0.9rem;
+  position: relative;
+}
+
+.footerContainer {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Crédito discreto */
+.footerCredit {
+  font-size: 0.7rem;
+  margin-top: 5px;
+}
+
+.footerCredit .creditos {
+  color: rgba(255, 255, 255, 0.4); /* quase transparente */
+  text-decoration: none;
+  transition: color 0.3s, transform 0.3s;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+
+}
+
+.footerCredit .creditos:hover {
+  color: rgba(245, 208, 66, 0.8); /* destaque sutil ao hover */
+  transform: scale(1.05);
+}
+
+/* RESPONSIVIDADE */
+@media (max-width: 768px) {
+  .footer {
+    font-size: 0.85rem;
+    padding: 15px;
+  }
+  .footerCredit {
+    font-size: 0.65rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .footer {
+    font-size: 0.8rem;
+    padding: 10px;
+  }
+  .footerCredit {
+    font-size: 0.6rem;
+  }
+}
