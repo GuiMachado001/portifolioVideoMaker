@@ -16,10 +16,12 @@ function Contato(){
             </button>
             </a>
 
+            <a href="https://wa.me/556799372259" target='_blank'>
             <button>
                 <i class="bi bi-whatsapp"></i>
                 <span>whatsapp</span>
             </button>
+            </a>
 
             <button>
                 <i class="bi bi-envelope-at-fill"></i>
