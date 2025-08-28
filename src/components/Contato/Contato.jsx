@@ -9,10 +9,12 @@ function Contato(){
         </div>
 
         <div className="containerBtnContato">
+            <a href="https://www.instagram.com/saab_gustavo/" target='_blank'>
             <button>
                 <i class="bi bi-instagram"></i>
                 <span>Instragram</span>
             </button>
+            </a>
 
             <button>
                 <i class="bi bi-whatsapp"></i>

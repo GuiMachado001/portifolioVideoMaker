@@ -1,0 +1,28 @@
+#videos {
+  width: 100%;
+  height: auto;
+  padding: 20px;
+  /* border: 1px solid red; */
+}
+
+.containerTitle {
+  width: 100%;
+  height: auto;
+  padding: 20px;
+}
+
+.titleTrabalho {
+  color: white;
+}
+
+.containerAllVideos {
+  width: 100%;
+  height: auto;
+  padding: 20px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
